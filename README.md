@@ -96,7 +96,7 @@ nc 127.0.0.1 8000
 
 使用golang自带的net包处理tcp连接请求
 
-使用golang的携程机制实现并发
+使用golang的协程机制实现并发
 
 使用gorm操作MySQL数据库
 
