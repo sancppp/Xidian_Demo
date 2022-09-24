@@ -1,6 +1,6 @@
 
 
-因为时间较为紧迫，本次demo我选择了使用golang语言来进行本次demo的开发。因为本次demo的编写网络服务器与操作数据库两个核心功能，golang都有较好的框架支持（原生的网络库，以及字节跳动开源的[gorm](https://gorm.io/zh_CN/docs/index.html)）。其次golang语言的底层对并发的良好支持与高性能也很吸引我。
+因为时间较为紧迫，本次demo我选择了使用golang语言来进行开发。因为本次demo的编写TCP服务器与操作数据库两个核心功能，golang都有较好的框架支持（原生的网络库，以及字节跳动开源的[gorm](https://gorm.io/zh_CN/docs/index.html)）。其次golang语言的底层对并发的良好支持与高性能也很吸引我。
 
 ## 需求背景
 
